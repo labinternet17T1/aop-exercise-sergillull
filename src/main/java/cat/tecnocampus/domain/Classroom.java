@@ -1,10 +1,12 @@
 package cat.tecnocampus.domain;
 
-public class Classroom {
+public class Classroom { /////////////
     private String name;
     private int capacity;
     private String orientation;
     private boolean plugs;
+
+    private String test;
 
     public Classroom() {
 
